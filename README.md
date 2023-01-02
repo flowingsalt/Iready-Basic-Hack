@@ -8,6 +8,9 @@ this will most likely never be updated since the main hack is at
 
 https://github.com/flowingsalt/Wangify
 
+discord:
+https://discord.gg/jN2pE74Awh
+
 # **MAKE SURE YOU PRESS FIX AFTER SKIPPING QUESTIONS OR ELSE YOUR LESSON WILL BREAK** <br>
 Open source i-Ready hack, not really meant to be used ( although it does work as of 12/10/2022 )
 
