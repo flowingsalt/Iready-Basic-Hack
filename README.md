@@ -6,7 +6,7 @@ continued by flowings in honor.
 
 this will most likely never be updated since the main hack is at
 
-https://github.com/flowingsalt/Wangify
+https://github.com/flowingsalt/Flowify
 
 discord:
 https://discord.gg/jN2pE74Awh
